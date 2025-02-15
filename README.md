@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Xi Chen @chenx2000.
 - 👀 I’m interested in computer vision, hyperspectral image processing, computational photography.
-- 🌱 I’m currently learning diffusion model.
 - 📫 How to reach me: chenxi2000cd@gmail.com.
 
 
